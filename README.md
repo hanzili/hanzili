@@ -25,3 +25,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanzili&show_icons=true&theme=tokyonight&locale=en" alt="hanzili" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hanzili&" alt="hanzili" /></p>
+
+<br/>  
+
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31rafkdlq5e6kbpxpc254onkc67q&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=f0ff1a&bar_color_cover=true" /></div>  
+
+<br/>  
