@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hanzi Li</h1>
-<h3 align="center">frontend developer | game developer | quantum enthusiasm</h3>
+<h3 align="center">full-stack developer | game developer | quantum enthusiasm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanzili&label=Profile%20views&color=0e75b6&style=flat" alt="hanzili" /> </p>
 
