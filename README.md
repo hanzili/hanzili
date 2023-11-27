@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hanzi Li</h1>
 <h3 align="center">full-stack engineer | quantum computing enthusiast</h3>
 
+<p align="center">
+  <img src="https://github.com/hanzili/hanzili/assets/96609857/9bf53b43-d05d-456f-ba85-e55155773486" />
+</p>
+
 - 📫 How to reach me **hanzili0217@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
