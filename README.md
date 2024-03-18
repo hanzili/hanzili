@@ -1,11 +1,8 @@
-<p align="center">
-  <img src="https://github.com/hanzili/hanzili/assets/96609857/9bf53b43-d05d-456f-ba85-e55155773486" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Hanzi</h1>
 <h4 align="center">Full-stack Engineer | CS @ McGill</h4>
 
-- 📫 How to reach me **hanzili0217@gmail.com**
+
+📫 How to reach me **hanzili0217@gmail.com**
 
 <h4 align="left">Skills:</h4>
 <p align="left">
@@ -15,8 +12,12 @@
 <h4 align="left">Socials:</h4>
 <p align="left"> <a href="https://discord.com/users/hanzili" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/hanzili" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hanzi-li-mcgill" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
-<picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=hanzili&include_all_commits=true&pixelate_avatar=truehide=contributions&background=white&color=black&hide=contributions,rank">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=hanzili&include_all_commits=true&pixelate_avatar=truehide=contributions&background=black&hide=contributions,rank">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=hanzili&hide=contributions,rank">
-</picture>
+
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: wrap;">
+  <picture decoding="async" loading="lazy">
+    <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=hanzili&include_all_commits=true&pixelate_avatar=truehide=contributions&background=white&color=black&hide=contributions,rank" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile-ui.vercel.app/api/github-stats?username=hanzili&include_all_commits=true&pixelate_avatar=truehide=contributions&background=black&hide=contributions,rank" />
+    <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=hanzili&hide=contributions,rank" style="height: 12rem; padding: 0.25rem;" />
+  </picture>
+  <img src="https://github.com/hanzili/hanzili/assets/96609857/9bf53b43-d05d-456f-ba85-e55155773486" style="height: 12rem; padding: 0.25rem;" />
+</div>
